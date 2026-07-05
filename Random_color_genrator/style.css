@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+}
+#button{
+    display: flex;
+    justify-content: center; /* Horizontal */
+    align-items: center;     /* Vertical */
+    box-sizing: border-box;
+    
+}
+#mainbox{
+    display: flex;
+    text-align: center;
+    justify-content: center; /*horizontal */
+    /* align-items: center;    vertical */
+    box-sizing: border-box;
+    border: 1px solid black;
+    height: 100px;
+    width: 500px;
+    margin: auto;
+}
