@@ -50,9 +50,10 @@ Or use the VS Code Live Server extension.
 
 ## 📸 Screenshot
 Example:
+<p>
 <img width="615" height="627" alt="Home page" src="https://github.com/user-attachments/assets/642f9ca0-94e8-471c-95eb-cf50083bb6d0" />
 
-<img width="457" height="485" alt="Calculation look likes" src="https://github.com/user-attachments/assets/c3b81c66-b1a0-496e-921c-3858a998175b" />
+<img width="457" height="485" alt="Calculation look likes" src="https://github.com/user-attachments/assets/c3b81c66-b1a0-496e-921c-3858a998175b" /></p>
 
 
 
