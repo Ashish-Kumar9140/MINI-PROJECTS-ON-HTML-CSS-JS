@@ -83,7 +83,7 @@ This project is licensed under the MIT License.
 
 #👨‍💻 Author
 
-"Ashish Prajapati"
+"Ashish Kumar"
 
 * GitHub: https://github.com/Ashish-Kumar9140
 * LinkedIn: www.linkedin.com/in/ashish-prajapati-aaa9ba32a
