@@ -2,29 +2,29 @@
 
 A modern and responsive **Advanced Calculator** built using **HTML, CSS, and JavaScript**. It performs basic arithmetic operations along with several advanced mathematical functions through a clean and user-friendly interface.
 
-#🚀 Features
+# Features
 
-* ➕ Addition
-* ➖ Subtraction
-* ✖️ Multiplication
-* ➗ Division
-* 📊 Percentage Calculation
-* 📐 Square Root
-* 🔲 Square (x²)
-* 🔄 Reciprocal (1/x)
-* 🔙 Backspace
-* 🧹 Clear Display
-* ⌨️ Keyboard Support
-* 📱 Responsive Design
+*  Addition
+*  Subtraction
+*  Multiplication
+*  Division
+*  Percentage Calculation
+*  Square Root
+*  Square (x²)
+*  Reciprocal (1/x)
+*  Backspace
+*  Clear Display
+*  Keyboard Support
+*  Responsive Design
 
   
-#🛠️ Built With
+# Built With
 
 * HTML5
 * CSS3
 * JavaScript (ES6)
 
-#📂 Project Structure
+# Project Structure
 
 Advanced-Calculator/
 │
@@ -33,9 +33,9 @@ Advanced-Calculator/
 ├── script.js
 └── README.md
 
-## ▶️ Getting Started
+# Getting Started
 
-### Clone the Repository
+# Clone the Repository
 
 ```bash
 git clone https://github.com/Ashish-Kumar9140/Advanced-Calculator.git
@@ -48,7 +48,7 @@ Simply open the `index.html` file in your browser.
 Or use the VS Code Live Server extension.
 
 
-## 📸 Screenshot
+# Screenshot
 Example:
 <p>
 <img width="615" height="627" alt="Home page" src="https://github.com/user-attachments/assets/642f9ca0-94e8-471c-95eb-cf50083bb6d0" />
@@ -58,7 +58,7 @@ Example:
 
 
 
-#💡 Future Improvements
+# Future Improvements
 
 * Scientific Calculator Mode
 * Dark & Light Theme
@@ -67,7 +67,7 @@ Example:
 * Keyboard Shortcuts
 * Theme Customization
 
-#🤝 Contributing
+# Contributing
 
 Contributions are welcome!
 
@@ -77,11 +77,11 @@ Contributions are welcome!
 4. Push to your branch
 5. Open a Pull Request
 
-#📄 License
+# License
 
 This project is licensed under the MIT License.
 
-#👨‍💻 Author
+# Author
 
 "Ashish Kumar"
 
