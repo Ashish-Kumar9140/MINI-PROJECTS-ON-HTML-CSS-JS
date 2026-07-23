@@ -5,21 +5,20 @@ A simple and interactive TODO List web application built using **HTML, CSS, and 
 
 ---
 
-## 🚀 Features
+# Features
 
-- ➕ Add new tasks
-- ❌ Delete existing tasks
-- 📌 Dynamic task creation using JavaScript
-- ⚡ Event Delegation for handling dynamically created buttons
-- 🎨 Simple and clean UI
-- 📱 Responsive design (if CSS is added)
+-  Add new tasks
+-  Delete existing tasks
+-  Dynamic task creation using JavaScript
+-  Event Delegation for handling dynamically created buttons
+-  Simple and clean UI
+-  Responsive design (if CSS is added)
 
 ---
 
-## 🛠️ Technologies Used
+# Technologies Used
 
 - HTML5
-- CSS3
 - JavaScript (ES6)
 
 ---
@@ -29,12 +28,11 @@ A simple and interactive TODO List web application built using **HTML, CSS, and 
 ```
 TODO-List/
 │── index.html
-│── style.css
 │── script.js
 └── README.md
 ```
 
----
+
 
 ## 📖 How It Works
 
