@@ -3,7 +3,6 @@
 
 A simple and interactive TODO List web application built using **HTML, CSS, and JavaScript**. This project allows users to add new tasks and delete completed tasks dynamically without refreshing the page.
 
----
 
 # Features
 
