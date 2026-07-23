@@ -3,6 +3,7 @@
 
 A simple and interactive TODO List web application built using **HTML, CSS, and JavaScript**. This project allows users to add new tasks and delete completed tasks dynamically without refreshing the page.
 
+---
 
 # Features
 
@@ -22,7 +23,7 @@ A simple and interactive TODO List web application built using **HTML, CSS, and 
 
 ---
 
-## 📂 Project Structure
+# Project Structure
 
 ```
 TODO-List/
@@ -33,7 +34,7 @@ TODO-List/
 
 
 
-## 📖 How It Works
+# How It Works
 
 ### 1. Add a Task
 - Enter a task in the input field.
@@ -46,7 +47,7 @@ TODO-List/
 
 ---
 
-## 💻 JavaScript Concepts Used
+##  JavaScript Concepts Used
 
 - DOM Manipulation
 - Event Listeners
@@ -59,12 +60,12 @@ TODO-List/
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/your-username/TODO-List.git
+git clone https://github.com/Ashish-Kumar9140/MINI-PROJECTS-ON-HTML-CSS-JS/
 ```
 
 2. Open the project folder.
@@ -73,7 +74,7 @@ git clone https://github.com/your-username/TODO-List.git
 
 ---
 
-## 📸 Preview
+##  Preview
 
 ```
 TODO - List
@@ -96,15 +97,15 @@ TODO - List
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
-- ✅ Mark tasks as completed
-- ✏️ Edit tasks
-- 💾 Store tasks using Local Storage
-- 🌙 Dark Mode
-- 📅 Add Due Dates
-- 🔍 Search Tasks
-- ⌨️ Press Enter to Add Task
+-  Mark tasks as completed
+-  Edit tasks
+-  Store tasks using Local Storage
+-  Dark Mode
+-  Add Due Dates
+-  Search Tasks
+-  Press Enter to Add Task
 
 ---
 
@@ -114,6 +115,6 @@ TODO - List
 
 ---
 
-## ⭐ Support
+##  Support
 
 If you found this project helpful, don't forget to ⭐ the repository on GitHub.
