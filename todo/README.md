@@ -112,6 +112,8 @@ TODO - List
 ## 👨‍💻 Author
 
 **Ashish Prajapati**
+* GitHub: https://github.com/Ashish-Kumar9140
+* LinkedIn: www.linkedin.com/in/ashish-prajapati-aaa9ba32a
 
 ---
 
