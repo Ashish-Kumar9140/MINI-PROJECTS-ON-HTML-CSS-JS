@@ -127,7 +127,8 @@ This project covers:
 
 **Ashish Prajapati**
 
-GitHub: https://github.com/your-username
+* GitHub: https://github.com/Ashish-Kumar9140
+* LinkedIn: www.linkedin.com/in/ashish-prajapati-aaa9ba32a
 
 ---
 
