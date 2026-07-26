@@ -81,7 +81,7 @@ Then include it like this:
 
 ---
 
-## ▶️ Installation
+##  Installation
 
 1. Clone the repository
 
@@ -97,7 +97,7 @@ No additional dependencies are required.
 
 ---
 
-## 💡 Future Improvements
+##  Future Improvements
 
 - Copy RGB code to clipboard.
 - Generate HEX colors.
@@ -109,7 +109,7 @@ No additional dependencies are required.
 
 ---
 
-## 🧠 Learning Concepts
+##  Learning Concepts
 
 This project covers:
 
@@ -123,7 +123,7 @@ This project covers:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Ashish Prajapati**
 
@@ -131,7 +131,7 @@ GitHub: https://github.com/your-username
 
 ---
 
-## ⭐ Support
+##  Support
 
 If you found this project helpful, consider giving it a ⭐ on GitHub.
 
