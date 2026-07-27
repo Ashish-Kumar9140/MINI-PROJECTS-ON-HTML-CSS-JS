@@ -79,7 +79,7 @@ Add a screenshot inside a `screenshots` folder.
 
 ```
 screenshots/
-    preview.png
+    sample.png
 ```
 
 -->
