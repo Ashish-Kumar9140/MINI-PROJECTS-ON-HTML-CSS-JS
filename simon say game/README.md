@@ -72,7 +72,7 @@ Simon-Says-Game/
 - If the sequence is incorrect, the game displays **Game Over** and resets.
 
 ---
-<!--
+<!-- in next few days
 ##  Screenshot
 
 Add a screenshot inside a `screenshots` folder.
@@ -82,11 +82,6 @@ screenshots/
     preview.png
 ```
 
-Then include it in the README like this:
-
-```md
-![Simon Says Game](screenshots/preview.png)
-```
 -->
 ---
 
@@ -157,7 +152,8 @@ setTimeout(() => levelUp(), 1000);
 
 **Ashish Prajapati**
 
-GitHub: https://github.com/your-username
+* GitHub: https://github.com/Ashish-Kumar9140
+* LinkedIn: www.linkedin.com/in/ashish-prajapati-aaa9ba32a
 
 ---
 
