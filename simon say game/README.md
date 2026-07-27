@@ -128,26 +128,6 @@ This project demonstrates:
 
 ---
 
-##  Known Issue
-
-In the current code, this line:
-
-```javascript
-setTimeout(levelUp(), 1000);
-```
-
-calls `levelUp()` immediately instead of waiting 1 second.
-
-Replace it with:
-
-```javascript
-setTimeout(levelUp, 1000);
-// or
-setTimeout(() => levelUp(), 1000);
-```
-
----
-
 ##  Author
 
 **Ashish Prajapati**
