@@ -1,4 +1,4 @@
-## 🔢 Advanced Calculator
+# 🔢 Advanced Calculator
 
 A modern and responsive **Advanced Calculator** built using **HTML, CSS, and JavaScript**. It performs basic arithmetic operations along with several advanced mathematical functions through a clean and user-friendly interface.
 
