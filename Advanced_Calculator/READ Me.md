@@ -41,7 +41,7 @@ Advanced-Calculator/
 git clone https://github.com/Ashish-Kumar9140/Advanced-Calculator.git
 ```
 
-#Open the Project
+# Open the Project
 
 Simply open the `index.html` file in your browser.
 
@@ -77,14 +77,13 @@ Contributions are welcome!
 4. Push to your branch
 5. Open a Pull Request
 
-# License
+## License
 
 This project is licensed under the MIT License.
 
 # Author
 
 "Ashish Kumar"
-
 
 * GitHub: https://github.com/Ashish-Kumar9140
 * LinkedIn: www.linkedin.com/in/ashish-prajapati-aaa9ba32a
